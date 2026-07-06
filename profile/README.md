@@ -1,6 +1,6 @@
 # LibreDSP
 
-**LibreDSP** is a DSP software (written in TypeScript) for designing digital filters, hybrid simulation, and more.
+**LibreDSP** is a DSP software for designing digital filters, hybrid simulation, and more.
 
 To try the app, visit: [LibreDSP.github.io](https://LibreDSP.Github.io)
 
