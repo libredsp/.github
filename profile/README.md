@@ -1,7 +1,7 @@
 # LibreDSP
 
 **LibreDSP** is a DSP library (written in Rust with WASM bindings) for designing digital filters, hybrid simulation, FFT, and other DSP-related operations.
-The project also contains LibreDSP Workspace, which is a web app, built with TypeScript, that provides a graphical user interface for the design and simulation of DSP applications using the library.
+The project also contains LibreDSP Workspace, which is a web app built with TypeScript, that provides a graphical user interface for the design and simulation of DSP applications using the library.
 
 To try LibreDSP Workspace, visit: [LibreDSP.github.io](https://LibreDSP.Github.io)
 
